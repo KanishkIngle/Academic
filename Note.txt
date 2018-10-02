@@ -1,0 +1,14 @@
+Dated - 2 Oct 2018
+______________________________________
+All codes were tested and Optimized.
+______________________________________
+
+* // src contains all the Source code,even including the Projects ( since '*.jar' cannot be shared as they are classpath Specific) 
+* //lib folder contains all the external libraries required for executing GUI Programs.
+*//NetBeans IDE and SQLite were used development
+_______________________________________
+ @developed by Kanishk
+Open to Queries and feedback.. 
+E-mail- inglekanishk@gmail.com
+_______________________________________
+**************THANK-YOU***************
